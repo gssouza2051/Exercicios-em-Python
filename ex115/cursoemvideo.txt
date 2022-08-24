@@ -1,0 +1,4 @@
+jose;35
+gabriel;20
+rosana;17
+joveline;55
